@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"hello-World xxxxxxxxxxxxxxxxxxxxxxxxx";
+cout<<"Learning git commands , clone and pull";
 return 0;
 }
